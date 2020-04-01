@@ -10,7 +10,7 @@ function postUserResponse(JSONObject) {
     request({
         url: "http://c29a9953.ngrok.io/api/v1/TwilioBlob",
         method: "POST",
-        json: true, // <--Very important!!!
+        json: true,
         headers: {
             "Authorization": "3CAREGIVERS",
             "content-Type": "application/json"
