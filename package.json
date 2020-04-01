@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express-session": "^1.17.0"
+    "express-session": "^1.17.0",
+    "request": "^2.88.2"
   }
 }
